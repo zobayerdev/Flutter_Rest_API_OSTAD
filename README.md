@@ -1,16 +1,4 @@
-# get_data_from_api
+# Flutter Rest API Ostad Assignment.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zobayerdev/Flutter_Rest_API_OSTAD/assets/74914169/e356f301-219c-4cf9-a21b-27f08dca731a" width=20% height=20%>
+<img src="https://github.com/zobayerdev/Flutter_Rest_API_OSTAD/assets/74914169/79b0b022-fb66-4da6-9d51-86936a22f4eb" width=20% height=20%>
